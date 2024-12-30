@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vinay_hub/static/css/main.c8981298.css",
-    "main.js": "/vinay_hub/static/js/main.85ff7715.js",
+    "main.js": "/vinay_hub/static/js/main.b3b52f32.js",
     "static/js/453.ef74ac98.chunk.js": "/vinay_hub/static/js/453.ef74ac98.chunk.js",
     "static/media/single-sofa-01.jpg": "/vinay_hub/static/media/single-sofa-01.066a994d36d7ee59a0e0.jpg",
     "static/media/single-sofa-03.jpg": "/vinay_hub/static/media/single-sofa-03.19d776d13fcee69a7765.jpg",
@@ -30,11 +30,11 @@
     "static/media/watch-07.png": "/vinay_hub/static/media/watch-07.ab34f22bd9bf81f6c7b7.png",
     "index.html": "/vinay_hub/index.html",
     "main.c8981298.css.map": "/vinay_hub/static/css/main.c8981298.css.map",
-    "main.85ff7715.js.map": "/vinay_hub/static/js/main.85ff7715.js.map",
+    "main.b3b52f32.js.map": "/vinay_hub/static/js/main.b3b52f32.js.map",
     "453.ef74ac98.chunk.js.map": "/vinay_hub/static/js/453.ef74ac98.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c8981298.css",
-    "static/js/main.85ff7715.js"
+    "static/js/main.b3b52f32.js"
   ]
 }

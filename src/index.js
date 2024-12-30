@@ -13,7 +13,7 @@ import store from './Redux/store';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
 <React.StrictMode>
- <BrowserRouter> 
+ <BrowserRouter basename="/vinay_hub"> 
  <Provider store={store}>
     <App />
  </Provider>
