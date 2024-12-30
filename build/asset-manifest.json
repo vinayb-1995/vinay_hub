@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/vinay_hub/static/css/main.c8981298.css",
+    "main.js": "/vinay_hub/static/js/main.85ff7715.js",
+    "static/js/453.ef74ac98.chunk.js": "/vinay_hub/static/js/453.ef74ac98.chunk.js",
+    "static/media/single-sofa-01.jpg": "/vinay_hub/static/media/single-sofa-01.066a994d36d7ee59a0e0.jpg",
+    "static/media/single-sofa-03.jpg": "/vinay_hub/static/media/single-sofa-03.19d776d13fcee69a7765.jpg",
+    "static/media/arm-chair-03.jpg": "/vinay_hub/static/media/arm-chair-03.726a783a7751afc13d8e.jpg",
+    "static/media/single-sofa-02.jpg": "/vinay_hub/static/media/single-sofa-02.97abc6d99fa23490e4e3.jpg",
+    "static/media/phone-04.jpg": "/vinay_hub/static/media/phone-04.2ba19de791045813aac6.jpg",
+    "static/media/arm-chair-01.jpg": "/vinay_hub/static/media/arm-chair-01.89e1f025e35e0058bb85.jpg",
+    "static/media/phone-02.jpg": "/vinay_hub/static/media/phone-02.10477985f1c21ec02c4b.jpg",
+    "static/media/arm-chair-02.jpg": "/vinay_hub/static/media/arm-chair-02.43d57539a173865f0923.jpg",
+    "static/media/watch-01.jpg": "/vinay_hub/static/media/watch-01.edc39b7f8f5435c24e41.jpg",
+    "static/media/double-sofa-02.png": "/vinay_hub/static/media/double-sofa-02.eac56d9c3869030c478e.png",
+    "static/media/hero-img.png": "/vinay_hub/static/media/hero-img.4cb525f5d6bac4b5af39.png",
+    "static/media/double-sofa-01.png": "/vinay_hub/static/media/double-sofa-01.183aaa8ba79a197491f7.png",
+    "static/media/watch-04.jpg": "/vinay_hub/static/media/watch-04.887d0313ee3f076ec3f9.jpg",
+    "static/media/double-sofa-03.png": "/vinay_hub/static/media/double-sofa-03.afb74598f1e42c273506.png",
+    "static/media/phone-01.jpg": "/vinay_hub/static/media/phone-01.d86035d9fda1b97694c9.jpg",
+    "static/media/single-sofa-04.png": "/vinay_hub/static/media/single-sofa-04.980da5a130febb12ba74.png",
+    "static/media/phone-05.jpg": "/vinay_hub/static/media/phone-05.31226bddeeca67231698.jpg",
+    "static/media/watch-02.jpg": "/vinay_hub/static/media/watch-02.c68df91cf57fa2c349e6.jpg",
+    "static/media/phone-06.jpg": "/vinay_hub/static/media/phone-06.9ca83f4b04590be98884.jpg",
+    "static/media/wireless-02.png": "/vinay_hub/static/media/wireless-02.1af857e3e55314fe3c03.png",
+    "static/media/phone-03.png": "/vinay_hub/static/media/phone-03.3207c29a5ca1a8cd27cf.png",
+    "static/media/wireless-03.png": "/vinay_hub/static/media/wireless-03.102199ac2c306820fe70.png",
+    "static/media/watch-03.jpg": "/vinay_hub/static/media/watch-03.7043a15ec85229e8f674.jpg",
+    "static/media/wireless-01.png": "/vinay_hub/static/media/wireless-01.1a76d777727c50ca0294.png",
+    "static/media/watch-07.png": "/vinay_hub/static/media/watch-07.ab34f22bd9bf81f6c7b7.png",
+    "index.html": "/vinay_hub/index.html",
+    "main.c8981298.css.map": "/vinay_hub/static/css/main.c8981298.css.map",
+    "main.85ff7715.js.map": "/vinay_hub/static/js/main.85ff7715.js.map",
+    "453.ef74ac98.chunk.js.map": "/vinay_hub/static/js/453.ef74ac98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8981298.css",
+    "static/js/main.85ff7715.js"
+  ]
+}
